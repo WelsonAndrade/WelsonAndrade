@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Welson da Silva Andrade, tenho 29 anos e sou natural de Pernambuco. Concluí o ensino médio no EREM NSPS e curso Full Stack na EBAC. Atualmente, estou cursando Sistemas da Informação na UNESC.
+Me chamo Welson da Silva Andrade, tenho 29 anos e sou natural deoncluí o ensino médio no EREM NSPS e curso Full Stack na EBAC. Atualmente, estou cursando Sistemas da Informação na UNESC.
 
 <p align="left">
     <a href="https://github.com/WelsonAndrade?tab=repositories&sort=stargazers">
